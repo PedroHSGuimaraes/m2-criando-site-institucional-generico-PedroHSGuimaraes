@@ -1,0 +1,15 @@
+footer {
+  background-color: var(--color-gray-1);
+  position: relative;
+  height: 70px;
+  top: 200px;
+}
+
+.footer__title {
+  text-align: center;
+  font-size: var(--font-size-text-3);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-gray-5);
+  position: relative;
+  top: 30px;
+}
